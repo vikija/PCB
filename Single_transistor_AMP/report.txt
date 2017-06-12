@@ -1,0 +1,94 @@
+Info: Reading netlist file "C:\Users\User\Desktop\Single_transistor_AMP\Single_transistor_AMP.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/593C40FB:Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm".
+
+Adding new component "C1:/593C40FB" footprint "Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm".
+
+Changing component "C1:/593C40FB" pin "1" net name from "" to "Net-(C1-Pad1)".
+
+Changing component "C1:/593C40FB" pin "2" net name from "" to "Net-(C1-Pad2)".
+
+Info: Checking netlist component footprint "C2:/593C415A:Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm".
+
+Adding new component "C2:/593C415A" footprint "Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm".
+
+Changing component "C2:/593C415A" pin "1" net name from "" to "Net-(C2-Pad1)".
+
+Changing component "C2:/593C415A" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C3:/593C4185:Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm".
+
+Adding new component "C3:/593C4185" footprint "Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm".
+
+Changing component "C3:/593C4185" pin "1" net name from "" to "Net-(C3-Pad1)".
+
+Changing component "C3:/593C4185" pin "2" net name from "" to "Net-(C3-Pad2)".
+
+Info: Checking netlist component footprint "J1:/593C8415:Connectors_Phoenix:PhoenixContact_GMSTBA-G_02x7.62mm_Angled".
+
+Adding new component "J1:/593C8415" footprint "Connectors_Phoenix:PhoenixContact_GMSTBA-G_02x7.62mm_Angled".
+
+Changing component "J1:/593C8415" pin "1" net name from "" to "+12V".
+
+Changing component "J1:/593C8415" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "P1:/593C4B74:Connectors:AK300-2".
+
+Adding new component "P1:/593C4B74" footprint "Connectors:AK300-2".
+
+Changing component "P1:/593C4B74" pin "1" net name from "" to "Net-(C1-Pad1)".
+
+Changing component "P1:/593C4B74" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "P2:/593C4B13:Connectors:AK300-2".
+
+Adding new component "P2:/593C4B13" footprint "Connectors:AK300-2".
+
+Changing component "P2:/593C4B13" pin "1" net name from "" to "Net-(C3-Pad2)".
+
+Changing component "P2:/593C4B13" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "Q1:/593C3272:TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval".
+
+Adding new component "Q1:/593C3272" footprint "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval".
+
+Changing component "Q1:/593C3272" pin "2" net name from "" to "Net-(C1-Pad2)".
+
+Changing component "Q1:/593C3272" pin "3" net name from "" to "Net-(C2-Pad1)".
+
+Changing component "Q1:/593C3272" pin "1" net name from "" to "Net-(C3-Pad1)".
+
+Info: Checking netlist component footprint "R1:/593C3FC9:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Adding new component "R1:/593C3FC9" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Changing component "R1:/593C3FC9" pin "1" net name from "" to "+12V".
+
+Changing component "R1:/593C3FC9" pin "2" net name from "" to "Net-(C1-Pad2)".
+
+Info: Checking netlist component footprint "R2:/593C4030:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Adding new component "R2:/593C4030" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Changing component "R2:/593C4030" pin "1" net name from "" to "Net-(C1-Pad2)".
+
+Changing component "R2:/593C4030" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R3:/593C3F57:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Adding new component "R3:/593C3F57" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Changing component "R3:/593C3F57" pin "1" net name from "" to "+12V".
+
+Changing component "R3:/593C3F57" pin "2" net name from "" to "Net-(C3-Pad1)".
+
+Info: Checking netlist component footprint "R4:/593C3F2C:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Adding new component "R4:/593C3F2C" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Changing component "R4:/593C3F2C" pin "1" net name from "" to "Net-(C2-Pad1)".
+
+Changing component "R4:/593C3F2C" pin "2" net name from "" to "GND".
+

@@ -1,0 +1,46 @@
+*PADS-PCB*
+*PART*
+ Q1 TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval
+ R4 Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+ R3 Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+ R1 Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+ R2 Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal
+ C1 Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+ C2 Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+ C3 Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+ P2 Connectors:AK300-2
+ P1 Connectors:AK300-2
+ J1 Connectors_Phoenix:PhoenixContact_GMSTBA-G_02x7.62mm_Angled
+
+*NET*
+*SIGNAL* Net-(C3-Pad2)
+ C3.2
+ P2.1
+*SIGNAL* GND
+ C2.2
+ P2.2
+ R2.2
+ P1.2
+ R4.2
+ J1.2
+*SIGNAL* Net-(C1-Pad1)
+ C1.1
+ P1.1
+*SIGNAL* +12V
+ R3.1
+ R1.1
+ J1.1
+*SIGNAL* Net-(C3-Pad1)
+ Q1.1
+ R3.2
+ C3.1
+*SIGNAL* Net-(C2-Pad1)
+ C2.1
+ R4.1
+ Q1.3
+*SIGNAL* Net-(C1-Pad2)
+ C1.2
+ R1.2
+ Q1.2
+ R2.1
+*END*
