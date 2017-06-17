@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C6,C7";"C_Disc_D5.0mm_W2.5mm_P5.00mm";3;"100n";;;
+2;"C2";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"68p";;;
+3;"C3";"C_Disc_D5.0mm_W2.5mm_P5.00mm";1;"1n";;;
+4;"C4,C5";"C_Disc_D5.0mm_W2.5mm_P5.00mm";2;"330p";;;
+5;"J1,J3";"bornier3";2;"Screw_Terminal_1x03";;;
+6;"J2";"Pin_Header_Straight_1x02_Pitch1.27mm";1;"CONN_01X02";;;
+7;"Q1,Q2,Q3";"TO-92_Molded_Narrow";3;"2SC1815";;;
+8;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"100k";;;
+9;"R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"10k";;;
+10;"R3";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"12k";;;
+11;"R4";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"6k8";;;
+12;"R5";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"560";;;
+13;"R6";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"4k7";;;
+14;"R7";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"2k2";;;
+15;"R8";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"68";;;
+16;"R9";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"1k";;;
+17;"R10";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"270";;;
